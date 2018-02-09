@@ -1,7 +1,10 @@
 
 ## Instructions
 
-`npm install -g rollup`
-`npm install`
+```
+npm install -g rollup
 
-`npm run serve`
+npm install
+
+npm publish
+```
